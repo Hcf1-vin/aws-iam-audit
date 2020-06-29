@@ -1,6 +1,6 @@
 # README #
 
-A python script to loop through one or more AWS accounts to get the mfa status and password/key age for IAM users.
+A python script to loop through one or more AWS accounts and output the details of IAM users to CSV.
 
 ### Getting Started ###
 
